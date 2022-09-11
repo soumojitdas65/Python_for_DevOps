@@ -41,5 +41,5 @@ print("\n")                                                                     
 
 # To display the Smallest & 2nd Smallest Integer Inputs from the List ("num_list") given by User.
 print("     The Smallest Integer provided by User is: ", num_list[0])
-print("     The Secondd Smallest Integer provided by User is: ", num_list[1])
+print("     The Second Smallest Integer provided by User is: ", num_list[1])
 print("\n")                                                                          # To print a new line.
