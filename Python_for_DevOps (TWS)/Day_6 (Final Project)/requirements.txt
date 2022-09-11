@@ -1,0 +1,12 @@
+boto3==1.24.51
+botocore==1.27.51
+distlib==0.3.5
+filelock==3.7.1
+jmespath==1.0.1
+platformdirs==2.5.2
+python-dateutil==2.8.2
+s3transfer==0.6.0
+schedule==1.1.0
+six==1.16.0
+urllib3==1.26.11
+virtualenv==20.16.3

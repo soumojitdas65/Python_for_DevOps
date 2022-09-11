@@ -1,0 +1,6 @@
+Python > DSA > Tools like Ansible/ Prefects
+
+
+git GitHub chef docker ansible Jenkins Kubernetes
+
+sabka base terraforms

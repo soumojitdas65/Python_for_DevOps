@@ -1,0 +1,4 @@
+# The Important AWS Services are ranked with accordance to their importance.
+
+1. IAM - Identity Access Manager
+2. CLI
